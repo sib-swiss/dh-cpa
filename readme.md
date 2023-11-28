@@ -1,0 +1,1 @@
+Authors of the CPA-DM font : Alain J. Desreumaux (CNRS, Paris, FR) et Tim Meylan (Professor of Typography, HEVS, Sierre, CH). In collaboration with Jérémy Formaz (Forme.ch, Sion, CH) and Alphabet-Type (Berlin, DE), under the lead of Claire Clivaz (SIB, Lausanne, CH). Unicode description: https://www.unicode.org/notes/tn52/
