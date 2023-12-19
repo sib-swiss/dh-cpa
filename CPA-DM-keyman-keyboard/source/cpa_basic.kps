@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>16.0.144.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="https://github.com/sib-swiss/dh-cpa">CPA-DM</Name>
+    <Copyright URL="https://www.sib.swiss">Copyright (c) 2023 - SIB, with Reserved Font Name CPA-DM</Copyright>
+    <Author URL="mailto:silvano.alda@sib.swiss">Silvano Alda for DHPlus</Author>
+    <Version URL=""></Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\cpa_basic.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\cpa_basic.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\cpa_basic.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\..\..\Downloads\DossierCPADM\DossierCPADM\CPA-DMScriptFont-Regular.otf</Name>
+      <Description>Font CPA-DM Script Font</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.otf</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>CPA-DM</Name>
+      <ID>cpa_basic</ID>
+      <Version>1.0</Version>
+      <OSKFont>..\..\..\..\..\Downloads\DossierCPADM\DossierCPADM\CPA-DMScriptFont-Regular.otf</OSKFont>
+      <DisplayFont>..\..\..\..\..\Downloads\DossierCPADM\DossierCPADM\CPA-DMScriptFont-Regular.otf</DisplayFont>
+      <Languages>
+        <Language ID="syr">Syriac</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
