@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>0</showhelp>
+    <path>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\cpa_dm.kpj</path>
+    <file ID="id_5f862604e41922e0f69f6d399aa8b911" Expanded="1"/>
+    <file ID="id_f08bec066fe0c776bb6bdfbd9c77d65d" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_5f862604e41922e0f69f6d399aa8b911</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\source\cpa_dm.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_f08bec066fe0c776bb6bdfbd9c77d65d</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\source\cpa_dm.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\README.md</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_cdb543b6ec78b7058843e4e3db7e586c</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\cpa_dm.keyboard_info</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_557d28317480e27af40775464c3279b2</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\source\cpa_dm.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_a0eb1aab432777bfcb394df4f4f21a0c</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\source\..\build\cpa_dm.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_bf88abd4b84222cca7011068c575e56f</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\source\..\build\cpa_dm.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_21f620cbe6e602a24d3b27e213551280</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\source\..\build\cpa_dm.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_480a0c445413053a6e8489ca4a8501fd</ID>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\source\..\..\..\..\..\Downloads\DossierCPADM\DossierCPADM\CPA-DMScriptFont-Regular.otf</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>cpa_dm.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\source\cpa_dm.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>CPA-DM.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_basic\CPA-DM.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>cpa_dm.keyboard_info</Filename>
+      <FileType>.keyboard_info</FileType>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\cpa_dm.keyboard_info</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>README.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\README.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>cpa_dm.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\source\cpa_dm.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>cpa_basic.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_basic\source\cpa_basic.kps</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
