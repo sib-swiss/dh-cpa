@@ -2,9 +2,9 @@
 c with name "CPA-DM"
 store(&VERSION) '10.0'
 store(&NAME) 'CPA-DM'
-store(&COPYRIGHT) 'Silvano Aldà (IT, SIB & DH+), based on the CPA DM font and PC/MAC keyboards.'
+store(&COPYRIGHT) 'Silvano Aldà (IT, SIB & DH+), based on the CPA-DM Script and keyboards'
 store(&KEYBOARDVERSION) '1.0'
-store(&TARGETS) 'any'
+store(&TARGETS) 'any web'
 store(&BITMAP) 'cpa_dm.ico'
 store(&VISUALKEYBOARD) 'cpa_dm.kvks'
 store(&LAYOUTFILE) 'cpa_dm.keyman-touch-layout'
@@ -12,6 +12,8 @@ store(&LAYOUTFILE) 'cpa_dm.keyman-touch-layout'
 begin Unicode > use(main)
 
 group(main) using keys
++ [SHIFT K_PERIOD] > '⁖'
++ [K_Y] > 'ܝ'
 + [SHIFT K_QUOTE] > '⸢'
 + [K_QUOTE] > '⸣'
 + [K_5] > '['

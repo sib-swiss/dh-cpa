@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>1</tab>
-    <showhelp>0</showhelp>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
     <path>C:\Users\silvano\Documents\Keyman Developer\Projects\cpa_dm\cpa_dm.kpj</path>
     <file ID="id_5f862604e41922e0f69f6d399aa8b911" Expanded="1"/>
     <file ID="id_f08bec066fe0c776bb6bdfbd9c77d65d" Expanded="1"/>
@@ -14,9 +14,9 @@
       <IDEState>
         <LayoutDisplay102Key>0</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
-        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <DebugFont>CPA-DM Script Font|9|   |0</DebugFont>
         <CodeFont>Consolas|-9|   |0</CodeFont>
-        <CharFont>Consolas|-9|   |0</CharFont>
+        <CharFont>CPA-DM Script Font|9|   |0</CharFont>
       </IDEState>
       <Debug>False</Debug>
     </FileState>
