@@ -2,16 +2,17 @@
 <visualkeyboard>
   <header>
     <version>10.0</version>
-    <kbdname>CPA-DM</kbdname>
+    <kbdname>cpa_dm</kbdname>
     <flags/>
   </header>
   <encoding name="unicode" fontname="CPA-DM Script Font" fontsize="-12">
     <layer shift="S">
       <key vkey="K_QUOTE">⸢</key>
+      <key vkey="K_PERIOD">⁖</key>
       <key vkey="K_SLASH">܍</key>
       <key vkey="K_D">ܕ</key>
       <key vkey="K_H">ܚ</key>
-      <key vkey="K_M">‍</key>
+      <key vkey="K_M">‍ADD LIGATURE</key>
       <key vkey="K_T">ܛ</key>
       <key vkey="K_HYPHEN">⸰</key>
       <key vkey="K_LBRKT">̈</key>
@@ -36,7 +37,7 @@
       <key vkey="K_H">ܗ</key>
       <key vkey="K_K">ܟ</key>
       <key vkey="K_L">ܠ</key>
-      <key vkey="K_M">‌</key>
+      <key vkey="K_M">BLOCK LIGATURE</key>
       <key vkey="K_N">ܢ</key>
       <key vkey="K_P">ܧ</key>
       <key vkey="K_Q">ܐ</key>
@@ -46,8 +47,8 @@
       <key vkey="K_V">ܫ</key>
       <key vkey="K_W">ܙ</key>
       <key vkey="K_X">ܨ</key>
-      <key vkey="K_Y">ܘ</key>
-      <key vkey="K_Z">ܝ</key>
+      <key vkey="K_Y">ܝ</key>
+      <key vkey="K_Z">ܘ</key>
     </layer>
   </encoding>
 </visualkeyboard>
