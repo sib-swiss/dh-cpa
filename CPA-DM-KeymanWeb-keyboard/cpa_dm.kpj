@@ -107,9 +107,9 @@
       <ParentFileID>id_f08bec066fe0c776bb6bdfbd9c77d65d</ParentFileID>
     </File>
     <File>
-      <ID>id_480a0c445413053a6e8489ca4a8501fd</ID>
-      <Filename>CPA-DMScriptFont-Regular.otf</Filename>
-      <Filepath>source\..\..\..\..\..\Downloads\DossierCPADM\DossierCPADM\CPA-DMScriptFont-Regular.otf</Filepath>
+      <ID>id_1db3b0302a2ae9241c6f45cadc1728b7</ID>
+      <Filename>CPA-DMScriptFont-RegularV2.otf</Filename>
+      <Filepath>source\..\..\dh-cpa\CPA-DMScriptFont-RegularV2.otf</Filepath>
       <FileVersion></FileVersion>
       <FileType>.otf</FileType>
       <ParentFileID>id_f08bec066fe0c776bb6bdfbd9c77d65d</ParentFileID>

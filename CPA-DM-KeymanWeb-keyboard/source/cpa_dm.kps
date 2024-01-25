@@ -53,8 +53,8 @@
       <FileType>.htm</FileType>
     </File>
     <File>
-      <Name>..\..\..\..\..\Downloads\DossierCPADM\DossierCPADM\CPA-DMScriptFont-Regular.otf</Name>
-      <Description>Font CPA-DM Script Font</Description>
+      <Name>..\..\dh-cpa\CPA-DMScriptFont-RegularV2.otf</Name>
+      <Description>Font CPA</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.otf</FileType>
     </File>
@@ -64,8 +64,6 @@
       <Name>CPA-DM</Name>
       <ID>cpa_dm</ID>
       <Version>1.0</Version>
-      <OSKFont>..\..\..\..\..\Downloads\DossierCPADM\DossierCPADM\CPA-DMScriptFont-Regular.otf</OSKFont>
-      <DisplayFont>..\..\..\..\..\Downloads\DossierCPADM\DossierCPADM\CPA-DMScriptFont-Regular.otf</DisplayFont>
       <Languages>
         <Language ID="syr">Syriac</Language>
       </Languages>
